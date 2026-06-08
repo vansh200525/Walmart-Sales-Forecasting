@@ -1,18 +1,11 @@
-Walmart Sales Forecasting
+# Walmart Sales Forecasting
 
-Project Status
 
-Python
-
-Power BI
-
-Machine Learning
-
-📌 Project Overview
+## Project Overview
 
 The Walmart Sales Forecasting project aims to optimize inventory management by predicting weekly sales trends across Walmart stores. By analyzing historical data and external factors, this project provides actionable insights for efficient decision-making and resource allocation.
 
-🔍 Features
+## Features
 
 Data Preprocessing:
 
@@ -30,14 +23,12 @@ Visual Insights:
 
 Created interactive dashboards using Power BI to visualize trends and insights.
 
-📁 Project Structure
-├── data/               # Raw and processed datasets  
-├── notebooks/          # Jupyter notebooks with analysis and modeling  
-├── reports/            # Generated insights and summaries  
-├── visuals/            # Power BI dashboards and visualizations  
-└── README.md           # Project documentation
+## Project Structure
+├── README.md               
+├── Walmart Dataset.csv
+└── walmartpython code.ipynb         
 
-🛠️ Tools & Technologies
+## Tools & Technologies
 
 Programming: Python (pandas, NumPy, matplotlib, statsmodels)
 
@@ -49,7 +40,7 @@ Other Tools: Jupyter Notebooks, Excel
 
 
 
-📊 Key Insights
+## Key Insights
 Seasonal variations and external factors like CPI and unemployment rates significantly impact sales trends.
 
 Sales forecasting helped Walmart streamline inventory management, reducing overstock and understock scenarios.
@@ -57,7 +48,7 @@ Sales forecasting helped Walmart streamline inventory management, reducing overs
 The predictive model demonstrated high reliability, enabling better decision-making for retail operations.
 
 
-🌟 Future Scope
+## Future Scope
 
 Incorporate deep learning models for improved predictions.
 
@@ -65,7 +56,5 @@ Expand the analysis to include more external factors like weather data.
 
 Automate the dashboard with real-time sales data integration.
 
-
-🤝 Connect With Me
-
-📧 vanshkrishali28@gmail.com
+## Author
+Vansh
